@@ -12,7 +12,6 @@ Leveraging raw sleep data from 2020 - 2023.
 ![png](/readme_files/viz/data1.png)
 
 ## Visualizing and Removing Outliers
-![png](/readme_files/viz/time_diff.png)
 ![png](/readme_files/viz/slimming.png)
 
 ## Checking out Possible Correlations
