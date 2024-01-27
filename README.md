@@ -9,20 +9,21 @@ Leveraging raw sleep data from 2020 - 2023.
 - What factors correlate to longest stretches of time with good quality and/or good time asleep?
 
 ## Starting Point
-![png](/readme_files/viz/data1.png)
+![png](/readme_files/data1.png)
 
 ## Visualizing and Removing Outliers
-![png](/readme_files/viz/slimming.png)
+![png](/readme_files/time_diff_before.png)
+![png](/readme_files/time_diff_after.png)
 
 ## Checking out Possible Correlations
-![png](/readme_files/viz/pair.png)
-![png](/readme_files/viz/violin.png)
+![png](/readme_files/pair.png)
+![png](/readme_files/violin.png)
 
 ## Looking at Macro Trends over Time
-![png](/readme_files/viz/time_ser.png)
+![png](/readme_files/time_ser.png)
 
 ## Micro Trends (differenced time series by time zone)
-![png](/readme_files/viz/time_ser_diff.png)
+![png](/readme_files/time_ser_diff.png)
 
 ## Time Zones Comparison (distributions of sleep/wake times and time spent asleep by time zone)
-![png](/readme_files/viz/dist.png)
+![png](/readme_files/dist.png)
